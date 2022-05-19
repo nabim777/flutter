@@ -1,0 +1,241 @@
+[{
+        "chapter_id": 1,
+        "chapter_name": "Education and Humanity",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 2,
+        "chapter_name": "Communication",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 3,
+        "chapter_name": "Media and Society",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 4,
+        "chapter_name": "History and Culture",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 5,
+        "chapter_name": "Life and Love",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 6,
+        "chapter_name": "Health and Exercise",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 7,
+        "chapter_name": "Ecology and Development",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 8,
+        "chapter_name": "Humour and Satire",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 9,
+        "chapter_name": "Democracy and Human Rights",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 10,
+        "chapter_name": "Home Life and Family Relationship",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 11,
+        "chapter_name": "Arts and Creation",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 12,
+        "chapter_name": "Fantasy",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 13,
+        "chapter_name": "Career and Entrepreneurship",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 14,
+        "chapter_name": "Power and Politics",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 15,
+        "chapter_name": "War and Peace",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 16,
+        "chapter_name": "Critical Thinking",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 17,
+        "chapter_name": "Globalisation and Diaspora",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 18,
+        "chapter_name": "Immigration and Identity",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 19,
+        "chapter_name": "Travel and Tourism",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 20,
+        "chapter_name": "Science and Technology",
+        "section_id": 1,
+        "unit_id": 0
+    },
+    {
+        "chapter_id": 21,
+        "chapter_name": "The Selfish Giant",
+        "section_id": 2,
+        "unit_id": 1
+    },
+    {
+        "chapter_id": 22,
+        "chapter_name": "The Oval Portrait",
+        "section_id": 2,
+        "unit_id": 1
+    },
+    {
+        "chapter_id": 23,
+        "chapter_name": "God Sees the Truth but Waits",
+        "section_id": 2,
+        "unit_id": 1
+    },
+    {
+        "chapter_id": 24,
+        "chapter_name": "The Wish",
+        "section_id": 2,
+        "unit_id": 1
+    },
+    {
+        "chapter_id": 25,
+        "chapter_name": "Civil Peace",
+        "section_id": 2,
+        "unit_id": 1
+    },
+    {
+        "chapter_id": 26,
+        "chapter_name": "Two Little Soldiers",
+        "section_id": 2,
+        "unit_id": 1
+    },
+    {
+        "chapter_id": 27,
+        "chapter_name": "An Astrologer's Day",
+        "section_id": 2,
+        "unit_id": 1
+    },
+    {
+        "chapter_id": 28,
+        "chapter_name": "Corona Says",
+        "section_id": 2,
+        "unit_id": 2
+    },
+    {
+        "chapter_id": 29,
+        "chapter_name": "A Red, Red Rose",
+        "section_id": 2,
+        "unit_id": 2
+    },
+    {
+        "chapter_id": 30,
+        "chapter_name": "All the World's a Stage",
+        "section_id": 2,
+        "unit_id": 2
+    },
+    {
+        "chapter_id": 31,
+        "chapter_name": "Who are you, little i ?",
+        "section_id": 2,
+        "unit_id": 2
+    },
+    {
+        "chapter_id": 32,
+        "chapter_name": "The Gift in Wartime",
+        "section_id": 2,
+        "unit_id": 2
+    },
+    {
+        "chapter_id": 33,
+        "chapter_name": "Sharing Tradition",
+        "section_id": 2,
+        "unit_id": 3
+    },
+    {
+        "chapter_id": 34,
+        "chapter_name": "How to Live Before You Die",
+        "section_id": 2,
+        "unit_id": 3
+    },
+    {
+        "chapter_id": 35,
+        "chapter_name": "What I Require From Life",
+        "section_id": 2,
+        "unit_id": 3
+    },
+    {
+        "chapter_id": 36,
+        "chapter_name": "What is Poverty ?",
+        "section_id": 2,
+        "unit_id": 3
+    },
+    {
+        "chapter_id": 37,
+        "chapter_name": "Scientific Research is a Token of Humankind's Survival",
+        "section_id": 2,
+        "unit_id": 3
+    },
+    {
+        "chapter_id": 38,
+        "chapter_name": "Trifles",
+        "section_id": 2,
+        "unit_id": 4
+    },
+    {
+        "chapter_id": 39,
+        "chapter_name": "A Sunny Morning",
+        "section_id": 2,
+        "unit_id": 4
+    },
+    {
+        "chapter_id": 40,
+        "chapter_name": "Refund",
+        "section_id": 2,
+        "unit_id": 4
+    }
+]
